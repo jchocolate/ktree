@@ -1,0 +1,19 @@
+# 大纲
+＃ jvm信息
+
+＃ 垃圾回收器
+  引用计数法
+  
+  标记-清除算法 (Mark-Sweep)
+  
+ #  Hot Spot 虚拟机
+ 
+ 
+＃ jvm优化
+
+＃ jvm参数配置
+
+＃ 参考文章
+https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/
+
+http://www.ibm.com/developerworks/cn/java/j-lo-jvm-optimize-experience/index.html
