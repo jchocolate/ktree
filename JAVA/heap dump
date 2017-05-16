@@ -1,0 +1,13 @@
+内存分析：
+
+ shallow heap 与 retained heap 的区别：
+ http://blog.csdn.net/kingzone_2008/article/details/9083327
+ 
+ shallow heap 这个主要为了表示对象本身的大小
+ retained heap 这个主要为了表示该对象被释放后，总heap能释放的内存大小。 对应的对象本身大小+它唯一引用的对象大小
+ 
+ 对象本身大小的Fenix
+ http://wwwiteye.iteye.com/blog/1985980
+ http://www.cnblogs.com/niurougan/p/4196057.html
+  
+
