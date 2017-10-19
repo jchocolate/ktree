@@ -1,5 +1,21 @@
 # awk
 
+# cut
+- cut 的默认分割是tab键
 
+cut -f1,2 test.txt  # 按照tab键分割，显示1和2列
 
+- cut的 d参数制定分隔符
+cut -f2 -d";" test2.txt 
+
+- cut的 c参数制定显示的字符
+cut -c1-3 test.txt   #打印1到3列的字符
+cut -c-2 test.txt #打印前两个字符
+cut -c5- test.txt #打印从第5个字符开始的字符
+
+http://man.linuxde.net/cut
+
+# sed
+ 用于逐行替换字符。
+ https://coolshell.cn/articles/9104.html
 
