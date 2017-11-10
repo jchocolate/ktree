@@ -32,5 +32,7 @@ git status
 git add file
  It may be helpful to think of it more as “add this content to the next commit” rather than “add this file to the project”
 
+切换分支
+$ git checkout testing
 
 
