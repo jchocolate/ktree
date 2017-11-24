@@ -36,3 +36,17 @@ git add file
 $ git checkout testing
 
 
+
+- git diff
+git diff 显示工作目录(working tree)和上次提交快照之间的差异
+git diff --cached  显示的是下一次commit时会提交到HEAD的内容
+git diff HEAD 显示工作版本的已经commit的HEAD数据的差异
+
+git diff  topic master  比较两个分支的差距
+
+
+- 删除本地分支
+git branch -D 分支名称
+
+
+
