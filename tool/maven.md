@@ -20,7 +20,7 @@ mvn package：生成构件包（一般为 jar 包或 war 包）
 mvn install：将构件包安装到本地仓库
 mvn deploy：将构件包部署到远程仓库
 mvn dependency:tree   查看jar包的依赖来源
-
+mvn clean install -Dmaven.test.skip=true  打jar包，并跳过测试
 
 
 
