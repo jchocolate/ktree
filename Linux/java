@@ -1,0 +1,33 @@
+
+http://blog.csdn.net/coooliang/article/details/77161649
+
+安装jdk.16
+https://support.apple.com/kb/DL1572?locale=zh_CN
+
+安装JENV
+
+```
+brew install jenv  
+```
+
+```
+echo 'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.bash_profile  
+echo 'eval "$(jenv init -)"' >> ~/.bash_profile  
+```
+
+4.重新打开一个新的终端运行如下内容（SDK路径根据自己情况）
+看一下自己的jdk安装目录
+  ls /Library/Java/JavaVirtualMachines
+  
+让jenv管理你的java配置
+```
+jenv add /Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home  
+jenv add /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home  
+```
+
+切换
+```
+jenv local oracle64-1.6.0.65  
+```
+
+
