@@ -1,4 +1,7 @@
- 
+# Knowledge Tree for computer scientists/programmers
+
+
+ 
 # 目录
   计算机科学体系
 
@@ -66,8 +69,12 @@ Python/Perl/Shell等脚本语言掌握其一
 ## 参考 ：
 http://www.penglixun.com/study/computer_science_knowledge_hierarchy.html
 https://www.zhihu.com/question/20213543
+https://blog.csdn.net/ZM970307/article/details/72904953
+参考问题： https://www.reddit.com/r/learnprogramming/comments/4rsire/knowledge_tree_for_computer_scientistsprogrammers/
 
-
+https://www.mindmeister.com/zh/151175205/what-every-computer-science-major-should-know
+主要是开发指导
+https://techdevguide.withgoogle.com/
 
 java 锁的原理
 hashmap的基本实现
