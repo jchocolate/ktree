@@ -1,0 +1,14 @@
+mysql 性能指标
+ https://www.cnblogs.com/yuyue2014/p/3679628.html
+   qps 每秒的查询量 qps=Com_select/s + Com_insert/s + Com_update/s + Com_delete/s
+   tps 每秒的事务量 tps= Com_insert/s + Com_update/s + Com_delete/s
+
+
+MySQL 性能监控4大指标
+https://www.datadoghq.com/blog/monitoring-mysql-performance-metrics/
+国内翻译
+http://blog.oneapm.com/apm-tech/754.html
+
+
+
+
