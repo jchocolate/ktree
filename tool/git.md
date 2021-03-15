@@ -1,8 +1,12 @@
 # 参考文档
 
+-- 在线文档
+
 https://book.git-scm.com/docs
 
-https://book.git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+-- progit电子书
+
+https://www.progit.cn/#_git_tools
 
 # git命令：
 - 建立仓库
